@@ -1,0 +1,13 @@
+name: marine-data-dashboard
+title: marine-data-dashboard
+username:
+account: pierrickkinif
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3258841
+bundleId: 3876664
+url: https://pierrickkinif.shinyapps.io/marine-data-dashboard/
+when: 1605717098.02219
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data-preparation.R|data/ships.csv
